@@ -2,6 +2,7 @@
 __pycache__/
 
 *.xlsx
+!template.xlsx
 *.png
 data/test/
 
