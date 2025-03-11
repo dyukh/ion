@@ -3,6 +3,7 @@ __pycache__/
 
 *.xlsx
 *.png
+data/test/
 
 *.py[cod]
 *$py.class
